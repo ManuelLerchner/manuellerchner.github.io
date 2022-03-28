@@ -9,9 +9,6 @@ import { GlSectionDivider } from "gitlanding/GlSectionDivider";
 import { GlCards } from "gitlanding/GlCards";
 import { GlLogoCard } from "gitlanding/GlCards/GlLogoCard";
 import { GlProjectCard } from "gitlanding/GlCards/GlProjectCard";
-import { GlCheckList } from "gitlanding/GlCheckList";
-import { GlSlider } from "gitlanding/GlSlider";
-import { GlReviewSlide } from "gitlanding/GlReviewSlide";
 
 export default function App() {
     return (
