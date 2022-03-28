@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/manuellerchner.github.io/static/css/main.a617e044.chunk.css",
+    "main.js": "/manuellerchner.github.io/static/js/main.15065926.chunk.js",
+    "main.js.map": "/manuellerchner.github.io/static/js/main.15065926.chunk.js.map",
+    "runtime-main.js": "/manuellerchner.github.io/static/js/runtime-main.959a0b73.js",
+    "runtime-main.js.map": "/manuellerchner.github.io/static/js/runtime-main.959a0b73.js.map",
+    "static/js/2.f962ed4c.chunk.js": "/manuellerchner.github.io/static/js/2.f962ed4c.chunk.js",
+    "static/js/2.f962ed4c.chunk.js.map": "/manuellerchner.github.io/static/js/2.f962ed4c.chunk.js.map",
+    "static/js/3.eac01830.chunk.js": "/manuellerchner.github.io/static/js/3.eac01830.chunk.js",
+    "static/js/3.eac01830.chunk.js.map": "/manuellerchner.github.io/static/js/3.eac01830.chunk.js.map",
+    "index.html": "/manuellerchner.github.io/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/manuellerchner.github.io/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.f962ed4c.chunk.js.LICENSE.txt": "/manuellerchner.github.io/static/js/2.f962ed4c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/manuellerchner.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.959a0b73.js",
+    "static/js/2.f962ed4c.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.15065926.chunk.js"
+  ]
+}
