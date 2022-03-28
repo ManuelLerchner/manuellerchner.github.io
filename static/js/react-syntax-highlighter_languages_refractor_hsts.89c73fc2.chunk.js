@@ -1,0 +1,2 @@
+(this["webpackJsonpmanuellerchner.github.io"]=this["webpackJsonpmanuellerchner.github.io"]||[]).push([[55],{625:function(e,a,s){"use strict";function t(e){e.languages.hsts={directive:{pattern:/\b(?:max-age=|includeSubDomains|preload)/,alias:"keyword"},safe:{pattern:/\d{8,}/,alias:"selector"},unsafe:{pattern:/\d{1,7}/,alias:"function"}}}e.exports=t,t.displayName="hsts",t.aliases=[]}}]);
+//# sourceMappingURL=react-syntax-highlighter_languages_refractor_hsts.89c73fc2.chunk.js.map
