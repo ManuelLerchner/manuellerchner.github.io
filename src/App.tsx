@@ -37,6 +37,10 @@ export default function App() {
                             label: "Mock-Trading",
                             href: "https://mocktrading.manuellerchner.de/",
                         },
+                        {
+                            label: "Molecular-Simulation",
+                            href: "https://manuellerchner.github.io/MolSim-WS23-24/submissions/",
+                        }
                     ]}
                     enableDarkModeSwitch={true}
                     githubRepoUrl="https://github.com/ManuelLerchner"
@@ -50,8 +54,7 @@ export default function App() {
             footer={
                 <GlFooter
                     bottomDivContent="This website is built with React and TypeScript using https://www.gitlanding.dev/"
-                    email="manuel.lerchner1111@gmail.com"
-                    phoneNumber="+393886276090"
+                    email="manuel.lerchner1111@gmail.com"     
                     links={[
                         {
                             href: "https://www.youtube.com/channel/UCvIGqQ5pelOqwaKOFaqiP4w",
@@ -176,6 +179,18 @@ export default function App() {
                             title="Task-Planner"
                             subtitle="A task planner application to help you organize your tasks."
                             projectImageUrl="https://user-images.githubusercontent.com/54124311/160501868-3fe3ac86-0c4c-4d6c-a16a-cf2833a388e5.png"
+                        />
+                    </a>
+
+                    <a
+                        className="wrapperLink"
+                        href="https://github.com/ManuelLerchner/MolSim-WS23-24/"
+                        title="molecular-simulation"
+                    >
+                        <GlProjectCard
+                            title="Molecular Simulation"
+                            subtitle="A molecular simulation project for the Molecular Dynamics lab course at TUM."
+                            projectImageUrl="https://private-user-images.githubusercontent.com/54124311/297563359-4f3c0021-379d-4041-9fa9-154dc8e7bb6f.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDczODcwMDYsIm5iZiI6MTcwNzM4NjcwNiwicGF0aCI6Ii81NDEyNDMxMS8yOTc1NjMzNTktNGYzYzAwMjEtMzc5ZC00MDQxLTlmYTktMTU0ZGM4ZTdiYjZmLmpwZWc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIwOFQxMDA1MDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNDlhZDc0NjA1NTg4ZWNlY2M4OGE0N2NhNGFkZDI1YmNkYTY3NzYzMWFmMDAyZGIxMjhlZDQyN2RhNzMyYzc2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.8MOU5PoJO-AvrRw8zavvtBmkRzt6cOmrcook53Glskc"
                         />
                     </a>
                 </>
